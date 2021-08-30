@@ -4,7 +4,7 @@
 💻 I'm currently a Web Development Student at [Yandex Practicum](https://practicum.yandex.com/).  
 🌱 Learning HTML, CSS, Javascript and React.  
 🔍 Looking to collaborate on open source/commercial/personal projects.  
-📮 Please, contact me at my [email](mailmeatshraddha@gmail.com) for any opportunities.
+📮 Please, contact me at my [email](mailto:mailmeatshraddha@gmail.com) for any opportunities.
 
 ## My Skills
 ![languages](https://img.shields.io/static/v1?label=&message=LANGUAGES&color=ff5349&style=flat-square)
