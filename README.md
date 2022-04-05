@@ -1,24 +1,33 @@
 ![my-github-banner](images/github-banner-new.png)
 
 ## About Me
-💻 I'm currently a Web Development Student at [Yandex Practicum](https://practicum.yandex.com/).  
-🌱 Learning HTML, CSS, Javascript and React.  
+💻 I'm a Software Engineer based out of VA, USA.  
+🌱 Recent Projects that I have worked on:  
+✔️ **Awesome Container Company**  
+- A landing page for *Awesome Container Company*, whose mission is to eliminate plastic and single use packaging in the food and beverage industry.   
+- Live Webpage - [click here](https://5hraddha.github.io/awesome-container-company/)
+- GitHub Repository - [click here](https://github.com/5hraddha/awesome-container-company)  
+
+✔️ **Around the U.S. Social Network**  
+- *Around the U.S.* is a full stack project that features a responsive social network website where a user can have a collection of the pictures of his journey around the US. The webpage interacts with the API endpoints using REST API calls hosted on a backend server.   
+- Live Webpage - [click here](https://shraddha.students.nomoreparties.sbs/)
+- GitHub Repository - [click here](https://github.com/5hraddha/react-around-api-full)
+
+✔️ **100daysoflovechallenge**  
+- *100daysoflovechallenge* is a web service that encourages users to spread love by action & to spread positive vibes by publicly sharing the tasks. Coded as part of 3 days hackathon.   
+- Live Webpage - [click here](https://100daysoflove.netlify.app/)
+- GitHub Repository - [click here](https://github.com/5hraddha/100daysoflovechallenge)  
+
 🔍 Looking to collaborate on open source/commercial/personal projects.  
-📮 Please, contact me at my [email](mailto:mailmeatshraddha@gmail.com) for any opportunities.
+📮 Please, contact me at my [email](mailto:mailmeatshraddha@gmail.com) for any opportunities.  
 
-## My Skills
-![languages](https://img.shields.io/static/v1?label=&message=LANGUAGES&color=ff5349&style=flat-square)
-![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=f5f5f5&style=flat-square&logo=html5&logoColor=black)
-![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=f5f5f5&style=flat-square&logo=css3&logoColor=black)
-![Javascript](https://img.shields.io/static/v1?label=&message=JS&color=f5f5f5&style=flat-square&logo=javascript&logoColor=black)
-![Python Scripting](https://img.shields.io/static/v1?label=&message=Python&color=f5f5f5&style=flat-square&logo=python&logoColor=black)
-
-![libraries](https://img.shields.io/static/v1?label=&message=LIBRARIES&color=ff5349&style=flat-square)
-![React](https://img.shields.io/static/v1?label=&message=React&color=f5f5f5&style=flat-square&logo=react&logoColor=black)
-
-![Cloud](https://img.shields.io/static/v1?label=&message=CLOUD+ECOSYSTEM&color=ff5349&style=flat-square)
-![AWS](https://img.shields.io/static/v1?label=&message=AWS&color=f5f5f5&style=flat-square&logo=amazonaws&logoColor=black)
-
-![Tools](https://img.shields.io/static/v1?label=&message=TOOLS&color=ff5349&style=flat-square)
-![Git](https://img.shields.io/static/v1?label=&message=Git&color=f5f5f5&style=flat-square&logo=git&logoColor=black)
-![Figma](https://img.shields.io/static/v1?label=&message=Figma&color=f5f5f5&style=flat-square&logo=figma&logoColor=black)
+## Let's Connect
+<a href="https://www.linkedin.com/in/5hraddha/">
+  <img src="../5hraddha/images/linkedin.png" alt="linkedin" width=30>
+</a>
+<a href="https://codepen.io/5hraddha">
+  <img src="../5hraddha/images/codepen.png" alt="codepen" width=30>
+</a>
+<a href="https://stackoverflow.com/users/8807325/shraddha">
+  <img src="../5hraddha/images/stackoverflow.png" alt="stackoverflow" width=30>
+</a>
