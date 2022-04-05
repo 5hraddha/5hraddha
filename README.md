@@ -1,4 +1,4 @@
-![my-github-banner](images/github-banner.png)
+![my-github-banner](images/github-banner-new.png)
 
 ## About Me
 💻 I'm currently a Web Development Student at [Yandex Practicum](https://practicum.yandex.com/).  
