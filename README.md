@@ -23,11 +23,11 @@
 
 ## Let's Connect
 <a href="https://www.linkedin.com/in/5hraddha/">
-  <img src="../5hraddha/images/linkedin.png" alt="linkedin" width=30>
+  <img src="images/linkedin.png" alt="linkedin" width=30>
 </a>
 <a href="https://codepen.io/5hraddha">
-  <img src="../5hraddha/images/codepen.png" alt="codepen" width=30>
+  <img src="images/codepen.png" alt="codepen" width=30>
 </a>
 <a href="https://stackoverflow.com/users/8807325/shraddha">
-  <img src="../5hraddha/images/stackoverflow.png" alt="stackoverflow" width=30>
+  <img src="images/stackoverflow.png" alt="stackoverflow" width=30>
 </a>
