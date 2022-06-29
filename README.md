@@ -14,6 +14,7 @@
 - A landing page made with React, Tailwind CSS & Framer Motion for *Awesome Container Company*, whose mission is to eliminate plastic and single use packaging in the food and beverage industry.   
 - Live Webpage - [click here](https://5hraddha.github.io/awesome-container-company/)
 - GitHub Repository - [click here](https://github.com/5hraddha/awesome-container-company) 
+- Website deployed by Client: [click here](https://awesomecontainer.com/)
 
 ✔️ **100daysoflovechallenge**  
 - *100daysoflovechallenge* is a web service that encourages users to spread love by action & to spread positive vibes by publicly sharing the tasks. Coded as part of 3 days hackathon.   
