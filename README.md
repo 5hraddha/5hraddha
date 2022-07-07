@@ -6,7 +6,7 @@
 ☕️ Currently, I am working on:  
 ✔️ **National Youth Bike Council**. 
 - A multi view *React* web app with *Strapi* as CMS, for *National Youth Bike Council* whose aim is to to provide an active learning space for young cyclists to boost youth voice in the bicycle industry through peer leadership.  
-- Work in progress (Live Link) - [click here](https://5hraddha.github.io/national-youth-bike-council/)  
+- Website deployed by Client (work in progress): [click here](https://www.nybcouncil.com/)  
 - GitHub Repository - [click here](https://github.com/5hraddha/national-youth-bike-council) 
 
 🌱 Recent Projects that I have worked on:  
