@@ -3,10 +3,14 @@
 ## About Me
 💻 I'm a Software Engineer based out of VA, USA.  
 
-☕️ Currently, I am working on:  
+☕️ Currently, I am working on:
+✔️ **WTWR - What To Wear**. 
+- A full stack application which gets the daily weather forecast, process it, and then based on the forecast, it recommends suitable clothing to the user. 
+- GitHub Repository - [click here](https://github.com/practicum-student/wtwr-app) 
+  
 ✔️ **National Youth Bike Council**. 
 - A multi view *React* web app with *Strapi* as CMS, for *National Youth Bike Council* whose aim is to to provide an active learning space for young cyclists to boost youth voice in the bicycle industry through peer leadership.  
-- Website deployed by Client (work in progress): [click here](https://www.nybcouncil.com/)  
+- Website deployed by Client - [click here](https://www.nybcouncil.com/)  
 - GitHub Repository - [click here](https://github.com/5hraddha/national-youth-bike-council) 
 
 🌱 Recent Projects that I have worked on:  
