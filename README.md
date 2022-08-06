@@ -3,9 +3,13 @@
 ## About Me
 💻 I'm a Software Engineer based out of VA, USA.  
 
-☕️ Currently, I am working on:  
+☕️ Currently, I am looking for new assigments. If you have any interesting idea or project to collaborate or a freelancing project, I will happy to connect.
+
+🌱 Recent Projects that I have worked on:  
 ✔️ **WTWR - What To Wear**. 
-- A full stack application which gets the daily weather forecast, process it, and then based on the forecast, it recommends suitable clothing to the user. 
+- A full stack application which gets the daily weather forecast, process it, and then based on the forecast, it recommends suitable clothing to the user.
+- Canonical project for Practicum in a team of 8 fellow students.
+- Website deployed by Client - [click here](https://wtwr.students.nomoredomainssbs.ru/) 
 - GitHub Repository - [click here](https://github.com/practicum-student/wtwr-app) 
   
 ✔️ **National Youth Bike Council**. 
@@ -13,7 +17,6 @@
 - Website deployed by Client - [click here](https://www.nybcouncil.com/)  
 - GitHub Repository - [click here](https://github.com/5hraddha/national-youth-bike-council) 
 
-🌱 Recent Projects that I have worked on:  
 ✔️ **Awesome Container Company**  
 - A landing page made with React, Tailwind CSS & Framer Motion for *Awesome Container Company*, whose mission is to eliminate plastic and single use packaging in the food and beverage industry.
 - Website deployed by Client: [click here](https://awesomecontainer.com/)   
