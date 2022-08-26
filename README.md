@@ -3,7 +3,7 @@
 ## About Me
 💻 I'm a Software Engineer based out of VA, USA.  
 
-☕️ Currently, I am looking for new assigments. If you have any interesting idea or project to collaborate or a freelancing project to work upon, I will be happy to connect.
+☕️ Currently, I am looking for volunteer based web development works. If you have any interesting idea or project to collaborate or a freelancing project to work upon, I will be happy to connect.
 
 🌱 Recent Projects that I have worked on:  
 ✔️ **WTWR - What To Wear**. 
