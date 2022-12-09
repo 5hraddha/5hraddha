@@ -5,17 +5,17 @@
 
 ☕️ Currently, I am looking for volunteer based web development works. If you have any interesting idea or project to collaborate or a freelancing project to work upon, I will be happy to connect.
 
-🌱 Recent Projects that I have worked on:  
+🌱 Recent Projects that I have worked on:    
+✔️ **National Youth Bike Council**. 
+- A multi view *React* web app with *Strapi* as CMS, for *National Youth Bike Council* whose aim is to to provide an active learning space for young cyclists to boost youth voice in the bicycle industry through peer leadership.  
+- Website deployed by Client - [click here](https://www.nybcouncil.com/)  
+- GitHub Repository - [click here](https://github.com/5hraddha/national-youth-bike-council) 
+
 ✔️ **WTWR - What To Wear**. 
 - A full stack application which gets the daily weather forecast, process it, and then based on the forecast, it recommends suitable clothing to the user.
 - Canonical project for Practicum in a team of 8 fellow students.
 - Website deployed by Client - [click here]( https://wtwr-app.up.railway.app/) 
 - GitHub Repository - [click here](https://github.com/practicum-student/wtwr-app) 
-  
-✔️ **National Youth Bike Council**. 
-- A multi view *React* web app with *Strapi* as CMS, for *National Youth Bike Council* whose aim is to to provide an active learning space for young cyclists to boost youth voice in the bicycle industry through peer leadership.  
-- Website deployed by Client - [click here](https://www.nybcouncil.com/)  
-- GitHub Repository - [click here](https://github.com/5hraddha/national-youth-bike-council) 
 
 ✔️ **Awesome Container Company**  
 - A landing page made with React, Tailwind CSS & Framer Motion for *Awesome Container Company*, whose mission is to eliminate plastic and single use packaging in the food and beverage industry.
