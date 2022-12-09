@@ -9,7 +9,7 @@
 ✔️ **WTWR - What To Wear**. 
 - A full stack application which gets the daily weather forecast, process it, and then based on the forecast, it recommends suitable clothing to the user.
 - Canonical project for Practicum in a team of 8 fellow students.
-- Website deployed by Client - [click here](https://wtwr.students.nomoredomainssbs.ru/) 
+- Website deployed by Client - [click here]( https://wtwr-app.up.railway.app/) 
 - GitHub Repository - [click here](https://github.com/practicum-student/wtwr-app) 
   
 ✔️ **National Youth Bike Council**. 
