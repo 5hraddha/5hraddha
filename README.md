@@ -1,42 +1,47 @@
-![my-github-banner](images/github-banner-new.png)
+![my-github-banner](images/github-banner.png)
 
-## About Me
-💻 I'm a Software Engineer based out of VA, USA.  
+💻 I'm a Software Engineer based out of VA, USA.
 
 ☕️ Currently, I am looking for volunteer based web development works. If you have any interesting idea or project to collaborate or a freelancing project to work upon, I will be happy to connect.
 
-🌱 Recent Projects that I have worked on:    
-✔️ **National Youth Bike Council**. 
-- A multi view *React* web app with *Strapi* as CMS, for *National Youth Bike Council* whose aim is to to provide an active learning space for young cyclists to boost youth voice in the bicycle industry through peer leadership.  
-- Website deployed by Client - [click here](https://www.nybcouncil.com/)  
-- GitHub Repository - [click here](https://github.com/wdmnybcouncil/national-youth-bike-council) 
+🌱 Recent Projects that I have worked on:  
+✔️ **National Youth Bike Council**.
 
-✔️ **WTWR - What To Wear**. 
+- A multi view _React_ web app with _Strapi_ as CMS, for _National Youth Bike Council_ whose aim is to to provide an active learning space for young cyclists to boost youth voice in the bicycle industry through peer leadership.
+- Website deployed by Client - [click here](https://www.nybcouncil.com/)
+- GitHub Repository - [click here](https://github.com/wdmnybcouncil/national-youth-bike-council)
+
+✔️ **WTWR - What To Wear**.
+
 - A full stack application which gets the daily weather forecast, process it, and then based on the forecast, it recommends suitable clothing to the user.
 - Canonical project for Practicum in a team of 8 fellow students.
-- Website deployed by Client - [click here]( https://wtwr-app.up.railway.app/) 
-- GitHub Repository - [click here](https://github.com/practicum-student/wtwr-app) 
+- Website deployed by Client - [click here](https://wtwr-app.up.railway.app/)
+- GitHub Repository - [click here](https://github.com/practicum-student/wtwr-app)
 
-✔️ **Awesome Container Company**  
-- A landing page made with React, Tailwind CSS & Framer Motion for *Awesome Container Company*, whose mission is to eliminate plastic and single use packaging in the food and beverage industry.
-- Website deployed by Client: [click here](https://awesomecontainer.com/)   
+✔️ **Awesome Container Company**
+
+- A landing page made with React, Tailwind CSS & Framer Motion for _Awesome Container Company_, whose mission is to eliminate plastic and single use packaging in the food and beverage industry.
+- Website deployed by Client: [click here](https://awesomecontainer.com/)
 - Demo Webpage - [click here](https://5hraddha.github.io/awesome-container-company/)
-- GitHub Repository - [click here](https://github.com/5hraddha/awesome-container-company) 
+- GitHub Repository - [click here](https://github.com/5hraddha/awesome-container-company)
 
-✔️ **100daysoflovechallenge**  
-- *100daysoflovechallenge* is a web service that encourages users to spread love by action & to spread positive vibes by publicly sharing the tasks. Coded as part of 3 days hackathon.   
+✔️ **100daysoflovechallenge**
+
+- _100daysoflovechallenge_ is a web service that encourages users to spread love by action & to spread positive vibes by publicly sharing the tasks. Coded as part of 3 days hackathon.
 - Live Webpage - [click here](https://100daysoflove.netlify.app/)
-- GitHub Repository - [click here](https://github.com/5hraddha/100daysoflovechallenge)  
+- GitHub Repository - [click here](https://github.com/5hraddha/100daysoflovechallenge)
 
-✔️ **Around the U.S. Social Network**  
-- *Around the U.S.* is a full stack project that features a responsive social network website where a user can have a collection of the pictures of his journey around the US. The webpage interacts with the API endpoints using REST API calls hosted on a backend server.   
+✔️ **Around the U.S. Social Network**
+
+- _Around the U.S._ is a full stack project that features a responsive social network website where a user can have a collection of the pictures of his journey around the US. The webpage interacts with the API endpoints using REST API calls hosted on a backend server.
 - Live Webpage - [click here](https://5hraddha.github.io/around-the-us-vanilla-js/index.html)
 - GitHub Repository - [click here](https://github.com/5hraddha/around-the-us-vanilla-js)
 
 🔍 Looking to collaborate on open source/commercial/personal projects.  
-📮 Please, contact me at my [email](mailto:mailmeatshraddha@gmail.com) for any opportunities.  
+📮 Please, contact me at my [email](mailto:mailmeatshraddha@gmail.com) for any opportunities.
 
 ## Let's Connect
+
 <a href="https://www.linkedin.com/in/5hraddha/">
   <img src="images/linkedin.png" alt="linkedin" width=30>
 </a>
