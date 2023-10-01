@@ -3,7 +3,7 @@
 💻 I'm a Software Engineer based out of VA, USA.  
 ☕️ Currently, I am looking for volunteer based web development works. If you have any interesting idea or project to collaborate or a freelancing project to work upon, I will be happy to connect.  
 🔍 Looking to collaborate on open source/commercial/personal projects.  
-📮 Please, contact me at my [email](mailto:mailmeatshraddha@gmail.com) for any opportunities.
+📮 Please, contact me at my LinkedIn page for any opportunities.
 
 ###
 
