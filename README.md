@@ -95,7 +95,7 @@
 
 ###
 
-<p align="left">ReactJS | JS | TailwindCSS | Framer Motion | REST API | Strapi CMS | PostgreSQL | Cloudinary | PWA<br><br>Welcome to the National Youth Bike Council's digital journey, where I had the privilege to craft a dynamic React website paired with a Headless CMS powered by Strapi. As the wheels turned, we bid farewell to their old Wix website and embraced a new era of responsiveness and interactivity. With Tailwind CSS as our stylistic canvas and Framer Motion adding a touch of animation magic, we breathed life into this digital realm. But it didn't stop there. We envisioned a future where their platform could be accessed anytime, anywhere, and thus, a Progressive Web App (PWA) was born. Though there's still much work to be done, the journey has been incredible. Volunteering as the Software Development & Tech Advisor for the council team, I witnessed the power of technology harnessed for a greater cause.</p>
+<p align="left">ReactJS | JS | TailwindCSS | Framer Motion | REST API | Strapi CMS | PostgreSQL | Cloudinary | PWA<br><br>The National Youth Bike Council, a youth-led non-profit, focuses on empowering young cyclists and amplifying youth voices within the bicycle industry. Transitioned the organization's website from Wix to React JS, achieving 100% responsiveness and an increase in user engagement. Developed a Strapi-powered React JS web app & implemented a Progressive Web App (PWA).</p>
 
 ###
 
@@ -108,7 +108,7 @@
 
 ###
 
-<p align="left">NextJS | React Server Components | TypeScript | Shadcn-UI | TailwindCSS | Supabase | Cypress<br><br>Connectient is a web application designed to streamline the process of requesting medical appointments for patients while providing healthcare providers with a powerful scheduling and management tool. With a user-friendly interface, robust features, and a commitment to enhancing the patient experience, Connectient aims to bridge the gap between patients and medical practices. The Connectient project allowed me to wear multiple hats and embrace diverse responsibilities, honing my skills not only as a project lead but also as a versatile full stack developer and a passionate advocate for UI/UX excellence.</p>
+<p align="left">NextJS | React Server Components | TypeScript | Shadcn-UI | TailwindCSS | Supabase | Cypress<br><br>Connectient is a web application designed to streamline the process of requesting medical appointments for patients while providing healthcare providers with a powerful scheduling and management tool. With a user-friendly interface, robust features, and a commitment to enhancing the patient experience, Connectient aims to bridge the gap between patients and medical practices.</p>
 
 ###
 
@@ -134,7 +134,7 @@
 
 ###
 
-<p align="left">ReactJS | JS | CSS | BEM | REST API | Express | JWT | Express Winston<br><br>Dive into the pixelated panorama of the United States with 'Around the US', the full-stack image-sharing web app that transforms your screen into a canvas of captivating snapshots. At 'Around the US', we celebrate the art of storytelling through images. Our journey began with a vision, and it evolved into a reality with React at the helm. Our CSS animations and effects will leave you spellbound as you navigate through a sea of pixels. Buckle up for an API adventure! We've woven the powers of React Hooks to seamlessly communicate with our RESTful API. Behind the scenes, our API has been meticulously tested and refined using POSTMAN. Powered by ExpressJS, our backend server stands tall, ready to handle your requests. Our data playground? MongoDB, a versatile NoSQL database that effortlessly manages the vast gallery of images.</p>
+<p align="left">ReactJS | JS | CSS | BEM | REST API | Express | JWT | Express Winston<br><br>Dive into the pixelated panorama of the United States with 'Around the US', the full-stack image-sharing web app that transforms your screen into a canvas of captivating snapshots. At 'Around the US', we celebrate the art of storytelling through images. Our journey began with a vision, and it evolved into a reality with React at the helm. Our CSS animations and effects will leave you spellbound as you navigate through a sea of pixels.</p>
 
 ###
 
