@@ -147,13 +147,89 @@
 
 ###
 
-<p align="left">ReactJS | JS | Tailwind CSS | Framer Motion | Express<br><br><br>Picture this: a world where plastic pollution is but a memory, and sustainability is the norm. That's the mission of Awesome Container Company - a Singapore based startup. Our tech arsenal is nothing short of extraordinary. React, the engine of interactivity, powers our frontend. Tailwind CSS, a magician of styling, ensures elegance. Framer Motion? It's the artist behind our animations. And AWS SES? It's our sustainable email messenger, keeping you in the loop.</p>
+<p align="left">ReactJS | JS | Tailwind CSS | Framer Motion | Express<br><br>Picture this: a world where plastic pollution is but a memory, and sustainability is the norm. That's the mission of Awesome Container Company - a Singapore based startup. Our tech arsenal is nothing short of extraordinary. React, the engine of interactivity, powers our frontend. Tailwind CSS, a magician of styling, ensures elegance. Framer Motion? It's the artist behind our animations. And AWS SES? It's our sustainable email messenger, keeping you in the loop.</p>
 
 ###
 
 - Website deployed by Client: [click here](https://awesomecontainer.com/)
 - Demo Website - [click here](https://5hraddha.github.io/awesome-container-company/)
 - GitHub Repository - [click here](https://github.com/5hraddha/awesome-container-company)
+
+###
+
+<h2 align="left">Data Science Projects</h2> 
+
+###
+
+<h3 align="left">🔸 Gold Recovery Prediction: Optimizing Efficiency in Gold Ore Processing using ML</h3>
+
+###
+
+<p align="left">Python | Pandas | Numpy | Seaborn | Scipy | Supervised Learning | Regression<br><br>Zyfra is a pioneering developer of efficiency solutions for heavy industries & is aiming to take help of machine learning to optimize the efficiency in Gold Ore processing. This project centers around the application of machine learning to predict the amount of gold that can be recovered from gold ore during the extraction and purification processes. By accurately forecasting gold recovery rates, mining operations can optimize production, reduce operational costs, and eliminate unprofitable parameters.</p>
+
+###
+
+- GitHub Repository - [click here](https://github.com/5hraddha/zyfra-gold-recovery-prediction)
+
+###
+
+<h3 align="left">🔸 Optimizing Oil Well Locations: Maximizing Profit and Minimizing Risks</h3>
+
+###
+
+<p align="left">Python | Pandas | Numpy | Scikit-learn | Supervised Learning | Regression<br><br>In the quest for harnessing valuable energy resources, the OilyGiant mining company wants to expand its operations by discovering new oil well locations. To achieve this, a data-driven approach is adopted, leveraging geological exploration data from three distinct regions and employing techniques in data analysis and modeling. Beyond just prediction, the project delves into the realm of profit calculation.</p>
+
+###
+
+- GitHub Repository - [click here](https://github.com/5hraddha/optimize-oil-well-locations)
+
+###
+
+<h3 align="left">🔸 Churn Prediction for Beta Bank</h3>
+
+###
+
+<p align="left">Python | Pandas | Seaborn | Scikit-learn | Supervised Learning | Classification<br><br>Beta Bank has been facing a gradual exodus of customers. Recognizing the significance of preserving existing clients, the bank wants to develop a robust churn prediction model to identify customers who are likely to leave the bank soon.</p>
+
+###
+
+- GitHub Repository - [click here](https://github.com/5hraddha/churn-prediction-for-beta-bank)
+
+###
+
+<h3 align="left">🔸 Cellular Plan Recommendations to Customers</h3>
+
+###
+
+<p align="left">Python | Pandas | Seaborn | Scikit-learn | Supervised Learning | Classification<br><br>Mobile carrier Megaline has found out that many of their subscribers use legacy plans. I developed a supervided learning model with the highest possible accuracy that would analyze subscribers' behavior and recommend one of Megaline's newer plans: Smart or Ultra.</p>
+
+###
+
+- GitHub Repository - [click here](https://github.com/5hraddha/megaline-plan-recommendations)
+
+###
+
+<h3 align="left">🔸 Netflix Content Trend Analysis</h3>
+
+###
+
+<p align="left">Python | Pandas | Plotly | EDA | Streamlit<br><br>The project goal is to explore the Netflix dataset to gain insights into the overall content trend, popularity of rating categories, library growth, and duration changes over time: Overall Trend of Content, Popularity of Rating Categories, Growth and Expansion of the Library, Duration and Release Year Analysis.</p>
+
+###
+
+- GitHub Repository - [click here](https://github.com/5hraddha/netflix-movies-tvshows-analysis)
+
+###
+
+<h3 align="left">🔸 Ice Video Games Data Analysis</h3>
+
+###
+
+<p align="left">Python | Pandas | Numpy | Seaborn | EDA | Matplotlib<br><br>Analysis of video game sales data of an online store Ice, which sells video games all over the world & identify patterns that determine whether a game succeeds or not.</p>
+
+###
+
+- GitHub Repository - [click here](https://github.com/5hraddha/ice-video-games-sales-analysis)
 
 ###
 
